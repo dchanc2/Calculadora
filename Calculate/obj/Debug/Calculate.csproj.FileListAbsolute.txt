@@ -1,0 +1,11 @@
+C:\Users\alumno\source\repos\Calculate\Calculate\bin\Debug\Calculate.exe.config
+C:\Users\alumno\source\repos\Calculate\Calculate\bin\Debug\Calculate.exe
+C:\Users\alumno\source\repos\Calculate\Calculate\bin\Debug\Calculate.pdb
+C:\Users\alumno\source\repos\Calculate\Calculate\obj\Debug\Calculate.csproj.AssemblyReference.cache
+C:\Users\alumno\source\repos\Calculate\Calculate\obj\Debug\Calculate.csproj.SuggestedBindingRedirects.cache
+C:\Users\alumno\source\repos\Calculate\Calculate\obj\Debug\Calculate.Form1.resources
+C:\Users\alumno\source\repos\Calculate\Calculate\obj\Debug\Calculate.Properties.Resources.resources
+C:\Users\alumno\source\repos\Calculate\Calculate\obj\Debug\Calculate.csproj.GenerateResource.cache
+C:\Users\alumno\source\repos\Calculate\Calculate\obj\Debug\Calculate.csproj.CoreCompileInputs.cache
+C:\Users\alumno\source\repos\Calculate\Calculate\obj\Debug\Calculate.exe
+C:\Users\alumno\source\repos\Calculate\Calculate\obj\Debug\Calculate.pdb
